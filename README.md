@@ -3,7 +3,7 @@
 ## Install
 
     git clone https://github.com/atmoner/bot-bcnaOsmos.git
-    cd bot-bcnaOsmos/
+    cd get-commissions-validator/
     npm i
     
 ## Use    
